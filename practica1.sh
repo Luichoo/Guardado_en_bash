@@ -9,10 +9,10 @@ echo	 '##        ##  "##m   ######   ##m          ##        ##     ##m        ##
 echo	 '##        ##    ##  m##  ##m   ##mmmm#     ##      mm##mm    ##mmmm#  m##  ##m            mmm##mmm' 
 echo	 '""        ""    """ ""    ""     """"      ""      """"""      """"   ""    ""            """""""'
 
-echo -e "\nLuis Antonio Blanco Conde \nAlejandro Octavio Salas Comparan \nAlejandro Velazquez Peña \nGustavo Contreras Mejia\nGabriel Salom Fernandez\n"
+echo  "\nLuis Antonio Blanco Conde \nAlejandro Octavio Salas Comparan \nAlejandro Velazquez Peña \nGustavo Contreras Mejia\nGabriel Salom Fernandez\n"
 opc=y
 opc3=1
-echo -e "Ingreso de nuevos datos:\n "
+echo  "Ingreso de nuevos datos:\n "
 while [ "$opc" = "y" ] || [ "$opc" = "Y" ];
 do
 opc2=1
@@ -54,7 +54,7 @@ opc2=1
 	else
 		touch datos.txt
 	fi
-	echo -e "\nDatos guardados en el sistema:\n "
+	echo  "\nDatos guardados en el sistema:\n "
 	echo "$clave|$Apat $Amat|$nombre|$edad">>datos.txt
 	cat datos.txt
 	while [ $opc2 -eq 1 ];
