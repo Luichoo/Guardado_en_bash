@@ -13,7 +13,7 @@ echo -e "\nLuis Antonio Blanco Conde \nAlejandro Octavio Salas Comparan \nAlejan
 opc=y
 opc3=1
 echo -e "Ingreso de nuevos datos:\n "
-while [ "$opc" = "y" ];
+while [ "$opc" = "y" ] || [ "$opc" = "Y" ];
 do
 opc2=1
 	echo "Ingresa Clave Ulsa"
