@@ -1,13 +1,13 @@
 #!/bin/bash
 #Practica 1 Sistemas Operativos
 clear
-#	 'mmmmmm    mmmmmm       mm        mmmm   mmmmmmmm   mmmmmm      mmmm      mm                 mmm'    
-#	 '##""""#m  ##""""##    ####     ##""""#  """##"""   ""##""    ##""""#    ####               #"##'    
-#	 '##    ##  ##    ##    ####    ##"          ##        ##     ##"         ####                 ##'    
-#	 '######"   #######    ##  ##   ##           ##        ##     ##         ##  ##                ##'    
-#	 '##        ##  "##m   ######   ##m          ##        ##     ##m        ######                ##'    
-#	 '##        ##    ##  m##  ##m   ##mmmm#     ##      mm##mm    ##mmmm#  m##  ##m            mmm##mmm' 
-#	 '""        ""    """ ""    ""     """"      ""      """"""      """"   ""    ""            """""""'
+echo	 'mmmmmm    mmmmmm       mm        mmmm   mmmmmmmm   mmmmmm      mmmm      mm                 mmm'    
+echo	 '##""""#m  ##""""##    ####     ##""""#  """##"""   ""##""    ##""""#    ####               #"##'    
+echo	 '##    ##  ##    ##    ####    ##"          ##        ##     ##"         ####                 ##'    
+echo	 '######"   #######    ##  ##   ##           ##        ##     ##         ##  ##                ##'    
+echo	 '##        ##  "##m   ######   ##m          ##        ##     ##m        ######                ##'    
+echo	 '##        ##    ##  m##  ##m   ##mmmm#     ##      mm##mm    ##mmmm#  m##  ##m            mmm##mmm' 
+echo	 '""        ""    """ ""    ""     """"      ""      """"""      """"   ""    ""            """""""'
 
 echo -e "\nLuis Antonio Blanco Conde \nAlejandro Octavio Salas Comparan \nAlejandro Velazquez Peña \nGustavo Contreras Mejia\nGabriel Salom Fernandez\n"
 opc=y
